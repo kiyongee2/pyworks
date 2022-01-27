@@ -9,6 +9,7 @@ else:
     row = int(customer / col) + 1
 
 #print("줄(행) 수 : ", row)
+    
 #좌석 배치
 for i in range(0, row):
     for j in range(1, col+1):
