@@ -12,12 +12,14 @@ for i in a:
     
 print("a2 =", a2)
 
+
 #홀수만 저장
 for i in a:
     if i % 2 == 1:
         a3.append(i)
 
 print("a3 =", a3)
+
 
 # 3미만의 수 저장
 for i in a:
