@@ -28,4 +28,5 @@ for i in range(3):
 
 turtle.color('green')
 turtle.circle(50)  #반지름-50
+
 turtle.mainloop()
