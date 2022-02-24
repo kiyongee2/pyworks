@@ -31,5 +31,5 @@ lis2 = ul2.findAll('li')
 print(lis2)
 print(lis2[2].text)  #'자바스크립트'
 
-uls = soup.findAll('ul')
-print(uls)
+# uls = soup.findAll('ul')
+# print(uls)
